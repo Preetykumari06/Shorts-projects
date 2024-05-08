@@ -1,6 +1,6 @@
 # Shorts-projects
 
-1. Image-Color-Pickle
+1. Image-Color-Picker
 Netlify-link ---> https://calm-melomakarona-940fae.netlify.app/
 
 2. Digital-Clock
